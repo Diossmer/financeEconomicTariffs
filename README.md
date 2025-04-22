@@ -1,2 +1,2 @@
 # financeEconomicTariffs
-Financial Education: economics, techniques, skills, social status, control, savings, investment, refrecial rates, communication, marketing and perspective, theory and hypothesis of trends and financial history
+Financial Education: economics, techniques, skills, social status, control, savings, investment, reference rates, communication, marketing, perspective, theory, trend hypotheses, and financial history.
